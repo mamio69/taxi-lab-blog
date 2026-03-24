@@ -3,6 +3,8 @@ title: Taxi Lab
 pagination:
   pagerSize: 10
 theme: PaperMod
+languageCode: ja
+hasCJKLanguage: true
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -20,10 +22,10 @@ params:
   title: Taxi Lab
   description: "現役タクシードライバーによるタクシー業界特化メディア。売上データ・営業攻略・転職情報を発信。"
   keywords: [タクシー, タクシードライバー, タクシー転職, 売上, 営業攻略]
-  author: ojitaku
+  author: Logta
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2006年1月2日"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -53,7 +55,7 @@ params:
 
   label:
     text: "Taxi Lab"
-    icon: /apple-touch-icon.png
+    icon: /favicon/apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
