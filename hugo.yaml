@@ -25,7 +25,7 @@ params:
   keywords: [タクシー, タクシードライバー, タクシー転職, 売上, 営業攻略]
   author: Logta
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["https://pub-75d4945a15ef4b21ba102b283c779a14.r2.dev/ogp-default.png"]
   DateFormat: "2006年1月2日"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
