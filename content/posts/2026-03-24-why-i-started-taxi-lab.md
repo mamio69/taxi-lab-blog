@@ -12,7 +12,7 @@ tags: ["ご挨拶", "タクシー", "データ分析", "Taxi Meter"]
 2025年5月でタクシードライバー歴2年になります（研修期間含む）。
 最初の記事となる今回は、なぜ私がこのデータ分析プラットフォームを作ろうと思ったのか、その理由をお話しさせてください。
 
-![Taxi Labのイメージ](https://pub-75d4945a15ef4b21ba102b283c779a14.r2.dev/Gemini_Generated_Image_4d0mr04d0mr04d0m%201.png)
+![Taxi Labのイメージ](https://pub-75d4945a15ef4b21ba102b283c779a14.r2.dev/taxi-lab-hero.webp)
 
 ---
 
@@ -25,7 +25,7 @@ tags: ["ご挨拶", "タクシー", "データ分析", "Taxi Meter"]
 
 しかしある日、**パタッと成長が止まりました。**
 
-![日報のイメージ](https://pub-75d4945a15ef4b21ba102b283c779a14.r2.dev/Gemini_Generated_Image_4d0mr04d0mr04d0m%202.png)
+![日報のイメージ](https://pub-75d4945a15ef4b21ba102b283c779a14.r2.dev/taxi-driver-logbook.webp)
 
 ---
 
@@ -41,7 +41,7 @@ tags: ["ご挨拶", "タクシー", "データ分析", "Taxi Meter"]
 でも、この日報の山の中に、そして毎日の営業データの中に、必ず「次の一手」が眠っているはずだと確信しています。
 このサイトでは、自分の日報データを赤裸々に公開・分析しながら、皆さんと一緒にその答えを探していきたいと思っています。
 
-![データ分析のイメージ](https://pub-75d4945a15ef4b21ba102b283c779a14.r2.dev/Gemini_Generated_Image_4d0mr04d0mr04d0m%203.png)
+![データ分析のイメージ](https://pub-75d4945a15ef4b21ba102b283c779a14.r2.dev/taxi-data-analysis.webp)
 
 ---
 
@@ -66,7 +66,7 @@ tags: ["ご挨拶", "タクシー", "データ分析", "Taxi Meter"]
 - **必須道具レビュー**：釣り銭入れやスマホホルダーなど、現役目線で本当に使えるアイテムをレビューします。
 - **将来的な展望**：オリジナルグッズの開発、業界リポート（note）、Kindle書籍化なども構想しています。
 
-![Taxi Meterアプリのイメージ](https://pub-75d4945a15ef4b21ba102b283c779a14.r2.dev/Gemini_Generated_Image_4d0mr04d0mr04d0m%204.png)
+![Taxi Meterアプリのイメージ](https://pub-75d4945a15ef4b21ba102b283c779a14.r2.dev/taxi-meter-app.webp)
 
 ---
 
