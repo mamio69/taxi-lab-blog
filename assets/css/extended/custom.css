@@ -50,7 +50,7 @@
 
 /* カード本体 */
 .post-entry {
-  margin: 0 12px 16px;
+  margin: 0 12px 28px;
   padding: 20px 22px;
   border-radius: 12px;
   background: var(--entry);
