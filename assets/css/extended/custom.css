@@ -91,3 +91,78 @@
   font-size: 0.78rem;
   margin-top: 10px;
 }
+
+/* =============================
+   記事ページ（シングル）デザイン
+   ============================= */
+
+/* 1. コンテンツ幅・余白 */
+.post-single {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* 2. 記事タイトル */
+.post-single .post-title {
+  font-size: 1.5rem;
+  line-height: 1.6;
+  font-weight: 700;
+}
+
+/* 2. H2見出し */
+.post-content h2 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-top: 2.8em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.4em;
+  border-bottom: 2px solid var(--border);
+}
+
+/* 2. H3見出し */
+.post-content h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-top: 2.2em;
+  margin-bottom: 0.6em;
+}
+
+/* 3. 本文の行間（日本語可読性） */
+.post-content p {
+  line-height: 1.85;
+  margin-bottom: 1.2em;
+}
+
+/* 4. 目次（TOC） */
+.toc {
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 16px 20px;
+  margin: 2em 0;
+  font-size: 0.88rem;
+}
+
+.toc details summary {
+  font-weight: 700;
+  font-size: 0.9rem;
+  cursor: pointer;
+  color: var(--primary);
+  margin-bottom: 8px;
+}
+
+.toc li {
+  margin: 4px 0;
+  line-height: 1.6;
+}
+
+.dark .toc {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+/* 5. 不要要素の非表示（Suggest Changes等） */
+.post-footer .meta-item,
+a[href*="github.com"][href*="content"] {
+  display: none;
+}
