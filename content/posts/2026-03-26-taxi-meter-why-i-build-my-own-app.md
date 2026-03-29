@@ -3,6 +3,7 @@ title: "【開発秘話】なぜ自作するのか？現役タクシードライ
 date: 2026-03-26
 draft: false
 tags: ["Taxi Meter", "アプリ開発", "日報", "NotebookLM"]
+categories: ["taxi-meter"]
 ---
 
 前回の記事では、「ベテランでも感覚だけで営業するのには限界がある」という話を書きました。

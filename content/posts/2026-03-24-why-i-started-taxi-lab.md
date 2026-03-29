@@ -3,6 +3,7 @@ title: "【ご挨拶】現役ドライバーがデータ分析プラットフォ
 date: 2026-03-24
 draft: false
 tags: ["ご挨拶", "タクシー", "データ分析", "Taxi Meter"]
+categories: ["about"]
 ---
 
 ## はじめに
