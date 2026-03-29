@@ -97,14 +97,9 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
-
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    hidden: false
+    hiddenInList: true
+    hiddenInSingle: false
 
   # for search
   # https://fusejs.io/api/options.html
@@ -127,6 +122,14 @@ menu:
       name: タグ
       url: /tags/
       weight: 20
+    - identifier: archives
+      name: アーカイブ
+      url: /archives/
+      weight: 30
+    - identifier: search
+      name: 検索
+      url: /search/
+      weight: 40
     # - identifier: example
     #   name: example.org
     #   url: https://example.org

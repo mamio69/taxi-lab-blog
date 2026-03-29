@@ -1,8 +1,6 @@
 ---
-title: "Search" # in any language you want
-layout: "search" # necessary for search
-# url: "/archive"
-# description: "Description for Search"
+title: "検索"
+layout: "search"
 summary: "search"
-placeholder: "placeholder text in search input box"
+placeholder: "キーワードを入力..."
 ---
