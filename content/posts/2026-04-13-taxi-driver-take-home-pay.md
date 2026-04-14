@@ -7,6 +7,8 @@ tags: ["給料", "手取り", "歩合", "転職", "データ分析"]
 categories: ["data-analysis"]
 ---
 
+![求人の月収60万円可は本当か？現役ドライバーが暴く手取りのリアルな数字](https://pub-75d4945a15ef4b21ba102b283c779a14.r2.dev/take-home-pay-hero.webp)
+
 「タクシードライバーって実際いくら稼げるの？」
 
 転職を考えている人なら一度は気になる疑問です。求人には「月収60万円可！」と書いてあったりしますが、実態はどうなのか。
@@ -26,6 +28,8 @@ categories: ["data-analysis"]
 > **稼いだ分だけもらえる**
 
 という仕組みです。固定給ではなく、自分が走って稼いだ売上（営収）をベースに給料が計算されます。
+
+![歩合制のしくみ：基準額と超過分の構造](https://pub-75d4945a15ef4b21ba102b283c779a14.r2.dev/buai-structure-chart.webp)
 
 ### 基準額（足切り）とは
 
@@ -64,6 +68,8 @@ categories: ["data-analysis"]
 ---
 
 ## 実際の手取り計算例
+
+![月収計算のイメージ](https://pub-75d4945a15ef4b21ba102b283c779a14.r2.dev/monthly-income-calc.webp)
 
 では、この営収データをもとに月収を試算してみます。
 
@@ -110,6 +116,8 @@ categories: ["data-analysis"]
 ---
 
 ## 「実際に稼げる人」の特徴
+
+![曜日別平均営収：金曜が最も高い](https://pub-75d4945a15ef4b21ba102b283c779a14.r2.dev/weekday-revenue-chart.webp)
 
 データを分析してわかったことですが、稼げるドライバーと稼げないドライバーには明確な差があります。
 
